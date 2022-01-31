@@ -100,7 +100,6 @@ nav .container .row .navigation-wrapper .navigation .nav-item a {
 
 nav .container .row .navigation-wrapper .navigation .nav-item a::after {
   border-top: 0.1em solid #218558;
-  border-radius: 1em;
   content: "";
   position: absolute;
   right: 100%;
